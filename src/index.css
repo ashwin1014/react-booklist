@@ -5,9 +5,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #553055;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+.App {
+  background: #4C2A4C;
+  margin: 20px auto;
+  width: 90%;
+  max-width: 700px;
+  color: #EEE;
+}
+
+.navbar {
+  padding: 10px 20px;
+  text-align: center;
+  background: #6D3D6D;
+}
+
+.navbar h2 {
+  margin: 10px 0;
 }
